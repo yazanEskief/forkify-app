@@ -1,7 +1,7 @@
 import * as Model from './Model.js';
 import RecipeView from './Views/recipeView.js';
 import SearchView from './Views/searchView.js';
-import ResultView from './views/resultView.js';
+import ResultView from './Views/resultView.js';
 import PaginationView from './Views/paginationView.js';
 import BookmarksView from './Views/bookmarksView.js';
 import AddRecipeView from './Views/addRecipeView.js';

@@ -1,9 +1,9 @@
 import * as Model from './Model.js';
-import RecipeView from './Views/recipeView';
-import SearchView from './views/searchView';
-import ResultView from './views/resultView';
-import PaginationView from './Views/paginationView';
-import BookmarksView from './Views/bookmarksView';
+import RecipeView from './Views/recipeView.js';
+import SearchView from './views/searchView.js';
+import ResultView from './views/resultView.js';
+import PaginationView from './Views/paginationView.js';
+import BookmarksView from './Views/bookmarksView.js';
 import AddRecipeView from './Views/addRecipeView.js';
 import 'core-js/stable';
 import 'regenerator-runtime/runtime';
